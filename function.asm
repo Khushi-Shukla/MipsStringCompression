@@ -44,7 +44,7 @@
 #}
 
 
-
+#This code is contributed by Khushi Shukla
 .data
     msg1: .asciiz "Enter the string(less than 40 characters): "
     str1: .space 40
